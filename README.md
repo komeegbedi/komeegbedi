@@ -23,25 +23,14 @@ Here are some ideas to get you started:
 📚 I am well experienced in web development and also in Java. I have been in web development since 2016 and since 2018 for Java.
 
 💻 I have worked on projects like: 
-   Sometimes you want numbered lists:
 
-1. One
-2. Two
-3. Three
-
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+* E-commerce website 
+* [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
+* [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
+* [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
+* I’m currently working on my portfolio website. It is still in beta but you can check it out here: https://komeegbedi.github.io/23-Fusion/ 
     
- 💻 I am experienced with technologies like:  JavaScript, PHP, MYSQL , Bootstrap.
+💻 I am experienced with technologies like:  JavaScript, PHP, MYSQL , Bootstrap.
 
 💻 I hope to one day work as software developer and work with an amazing team.
 
