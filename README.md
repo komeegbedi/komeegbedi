@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 💻 I have worked on projects like: 
 
-  * E-commerce website 
-  * [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
-  * [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
-  * [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
-  * I’m currently working on my portfolio website. It is still in beta but you can check it out here: https://komeegbedi.github.io/23-Fusion/ 
+   * E-commerce website 
+   * [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
+   * [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
+   * [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
+   * I’m currently working on my portfolio website. It is still in beta but you can check it out here: https://komeegbedi.github.io/23-Fusion/ 
     
 💻 I am experienced with technologies like:  JavaScript, PHP, MYSQL , Bootstrap.
 
