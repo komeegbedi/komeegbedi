@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 📚 I am well experienced in web development and also in Java. I have been in web development since 2016 and since 2018 for Java.<br>
     I have worked on projects like 
-    * E-commerce website 
-    * [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
-    * [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
-    * [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
+    - E-commerce website 
+    - [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
+    - [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
+    - [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
     
 💻  I am experienced with technologies like:  JavaScript, PHP, MYSQL , Bootstrap.
     
