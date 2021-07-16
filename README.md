@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 🌇 A passion for creating software and solving problems through tech.
 
-📚 I am well experienced in web development and also in Java. I have been in web development since 2016 and since 2018 for Java.<br>
-    *I have worked on projects like: 
+📚 I am well experienced in web development and also in Java. I have been in web development since 2016 and since 2018 for Java.
+    * I have worked on projects like: 
         - E-commerce website 
         - [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
         - [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
