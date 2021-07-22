@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💻 I have worked on projects like: 
 
-   * E-commerce website 
+   * [Furniture Home Page](https://komeegbedi.github.io/SunnySide/) 
    * [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
    * [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
    * [FileOrganizer](https://github.com/komeegbedi/FileOrganizer) and other software.
