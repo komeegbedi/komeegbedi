@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 📚 I am well experienced in web development and also in Java. I have been in web development since 2016 and since 2018 for Java.
 
 💻 I have worked on projects like: 
-
+   
+   * [Chatroom](https://komeegbedi.github.io/Chatroom/)
    * [Furniture Home Page](https://komeegbedi.github.io/SunnySide/) 
    * [Unbeatable Tic Tac Toe game](https://komeegbedi.github.io/Tic-Tac-Toe/) 
    * [Simple-HTTP-Server](https://github.com/komeegbedi/Simple-HTTP-Server) 
